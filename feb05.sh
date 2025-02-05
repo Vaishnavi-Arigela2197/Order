@@ -1,0 +1,1 @@
+echo "Hardwork always pays"
