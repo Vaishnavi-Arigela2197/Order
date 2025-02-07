@@ -1,1 +1,1 @@
-echo "Hardwork always pays"
+echo "Hardwork definitely pays"
