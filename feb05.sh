@@ -1,2 +1,2 @@
-echo "Hi Vaish!"
+echo "Hi Vaish!!"
 echo "Hardwork definitely pays"
